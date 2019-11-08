@@ -2,11 +2,11 @@
 
 ### Batch - C
 ### Group Members (Name - Roll no)
-Ajinkya Kudoo - 31
-Shaney Mantri - 32
-Aman Pahurkar - 37
-Pulin Prabhu - 41
-Umang Prajapati - 42
+- Ajinkya Kudoo - 31
+- Shaney Mantri - 32
+- Aman Pahurkar - 37
+- Pulin Prabhu - 41
+- Umang Prajapati - 42
 
 
 ## Concept
