@@ -22,7 +22,7 @@ A chess game was built by using NodeJS for backend. Multiple clients connect to 
 
 3. Change the host in the app.js
 
-	![Server](/SS/Capture5.png)
+	![Server](/SS/Capture5.PNG)
 	
 4. Run the server
 	>node app.js
@@ -32,14 +32,14 @@ A chess game was built by using NodeJS for backend. Multiple clients connect to 
 
 ## Some Screenshots of the application:
 
-![Server](/SS/Capture1.png)
+![Server](/SS/Capture1.PNG)
 	
-![Server](/SS/Capture2.png)
+![Server](/SS/Capture2.PNG)
 
-![Server](/SS/Capture3.png)
+![Server](/SS/Capture3.PNG)
 
-![Server](/SS/Capture4.png)
+![Server](/SS/Capture4.PNG)
 
 # Schematic View
 
-![Server](/SS/Capture1.png)
+![Server](/SS/chessSchematic.PNG)
