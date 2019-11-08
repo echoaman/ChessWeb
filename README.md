@@ -30,7 +30,7 @@ A chess game was built by using NodeJS for backend. Multiple clients connect to 
 5. Connect to server via browser(Enter ip:port in url)
 
 
-## Some Screenshots of the application:
+## Some Screenshots of the chess game:
 
 ![Server](/SS/Capture1.PNG)
 	
@@ -42,4 +42,4 @@ A chess game was built by using NodeJS for backend. Multiple clients connect to 
 
 # Schematic View
 
-![Server](/SS/chessSchematic.PNG)
+![Server](/SS/chessSchematic.png)
