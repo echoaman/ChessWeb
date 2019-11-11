@@ -1,12 +1,12 @@
 # DCCN Project - Chess game using websockets
 
 ### Batch - C
-### Group Members (Name - Roll no)
-- Ajinkya Kudoo - 31
-- Shaney Mantri - 32
-- Aman Pahurkar - 37
-- Pulin Prabhu - 41
-- Umang Prajapati - 42
+### Group Members (Name - Roll no (UID))
+- Ajinkya Kudoo - 31 - 2017130035
+- Shaney Mantri - 32 - 2017130036
+- Aman Pahurkar - 37 - 2017130041
+- Pulin Prabhu - 41 - 2017130045
+- Umang Prajapati - 42 - 2017130042
 
 
 ## Concept
