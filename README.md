@@ -45,5 +45,5 @@ A chess game was built by using NodeJS for backend. Multiple clients connect to 
 ![Server](/SS/chessSchematic.png)
 
 
-### Acknowledging below repo that we used as our reference:
+# Acknowledging below repo that we used as our reference:
 ### https://github.com/dwcares/realchess
